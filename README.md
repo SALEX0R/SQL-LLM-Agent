@@ -1,7 +1,7 @@
 # SQL-LLM-Agent
 
 ## Overview
-SQL-LLM-Agent is a cutting-edge project that leverages OpenAI's GPT-3.5, the LangChain framework, and an Agentic RAG (Retrieval-Augmented Generation) pipeline to transform the way we interact with databases. This system is designed to translate natural language queries into SQL commands, enabling seamless interaction with a MySQL database. It also includes advanced features like transaction tracking, automated actions, and future enhancements like ordering food from Zomato.
+SQL-LLM-Agent is a cutting-edge project that leverages OpenAI's GPT-3.5, the LangChain framework, and an Agentic RAG (Retrieval-Augmented Generation) pipeline to transform the way we interact with databases. This system is designed to translate natural language queries into SQL commands, enabling seamless interaction with a MySQL database. It also includes advanced features like transaction tracking, automated actions.
 
 ## Features
 - **AI-Powered SQL Query Generation**: Translates natural language input into SQL queries using GPT-3.5.
